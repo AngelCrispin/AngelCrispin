@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.angelcrispinhuamani.com](www.angelcrispinhuamani.com)
 
-- 💬 Ask me about **C# .NET, React, JavaScript**
+- 💬 Ask me about **C# .NET, React, Angular**
 
 - 📫 How to reach me **angelcrispinhuamani@gmail.com**
 
