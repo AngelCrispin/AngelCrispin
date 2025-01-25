@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kusi](https://github.com/4GeeksAcademy/kusi)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [www.angelcrispinhuamani.com](www.angelcrispinhuamani.com)
 
